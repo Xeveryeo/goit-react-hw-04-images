@@ -5,5 +5,5 @@ export const AppDiv = styled.div`
   grid-template-columns: 1fr;
   grid-gap: 16px;
   padding-bottom: 24px;
-  background-color: #6fd2e4;
+  // background-color: #6fd2e4;
 `;
