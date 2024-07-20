@@ -9,16 +9,13 @@ export const Overlay = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(37, 37, 37, 0.8);
+  // background-color: rgba(37, 37, 37, 0.8);
   // z-index: 1200;
 `;
 
 export const ModalDiv = styled.div`
   max-width: calc(100vw - 40px);
   max-height: calc(100vh -30px);
-  // display: flex;
-  //  justify-content: center;
-  //  align-items: center;
 `;
 
 export const ModalDivImg = styled.img`
